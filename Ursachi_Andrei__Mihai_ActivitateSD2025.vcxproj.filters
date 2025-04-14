@@ -18,5 +18,16 @@
     <ClCompile Include="listaSimpla.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="listaDubla.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="altaListaSimpla.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="fisier.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
