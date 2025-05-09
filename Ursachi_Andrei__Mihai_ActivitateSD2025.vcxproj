@@ -136,7 +136,10 @@
     <ClCompile Include="listaSimpla.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="lucruSDD.c" />
+    <ClCompile Include="lucruSDD.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="lucru2SDD.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="fisier.txt" />

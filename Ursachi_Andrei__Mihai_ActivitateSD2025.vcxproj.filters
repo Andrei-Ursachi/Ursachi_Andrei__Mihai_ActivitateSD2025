@@ -27,6 +27,9 @@
     <ClCompile Include="lucruSDD.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lucru2SDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="fisier.txt">
