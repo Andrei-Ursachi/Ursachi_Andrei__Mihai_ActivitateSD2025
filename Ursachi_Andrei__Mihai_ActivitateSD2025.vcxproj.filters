@@ -33,12 +33,18 @@
     <ClCompile Include="lucruHeap.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lucruHeap2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="fisier.txt">
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="fisier2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="fisier3.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
